@@ -13,10 +13,10 @@ Sporty Booky is a sophisticated application designed for the reservation of spor
   <tr>
     <!-- Kolom untuk gambar dan teks MQTT -->
     <td>
-      <img src="https://github.com/Damaramon/Arpet-Feeder/assets/128273587/b19d4789-1b84-44e3-aec2-71cc951de088" alt="MQTT" style="width: 70px; vertical-align: middle;">
+      <img src="https://github.com/Damaramon/Sporty-Booky/assets/128273587/21e4b4ca-8c12-4069-bd65-2e0a595b20f7" alt="Firebase" style="width: 70px; vertical-align: middle;">
     </td>
     <td>
-      MQTT
+      Firebase
     </td>
   </tr>
 
@@ -24,5 +24,6 @@ Sporty Booky is a sophisticated application designed for the reservation of spor
 
 
 ##  **Preview Aplikasi**
-![image](https://github.com/Damaramon/Arpet-Feeder/assets/128273587/315b223c-45a4-4b69-bcbc-1e7ebdf68a75)
+![image](https://github.com/Damaramon/Sporty-Booky/assets/128273587/06b53531-be24-4c36-aed6-2342e9545fe5)
+
 
